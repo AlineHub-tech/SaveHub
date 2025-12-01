@@ -4,9 +4,9 @@ SaveHub is a web/mobile application designed to help you manage your finances,
  create savings plans, and track your spending easily and securely.
 
 📸 Screenshot (Demo)
-(https://github.com/user-attachments/assets/193f2f62-5316-4027-ad40-e7679f81173f)
 
-https://github.com/user-attachments/assets/a37090b2-f4c7-48f3-bd9a-a9ece716b3b9
+![sav_085758](https://github.com/user-attachments/assets/70afaf4e-d60f-45ab-80e9-07375b77383a)
+![savv_085759](https://github.com/user-attachments/assets/70b5d090-53a1-44b0-a78c-03aeb0bc073f)
 
 🌟 Features
 
